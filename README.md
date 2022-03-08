@@ -1,2 +1,2 @@
 # responsivepepsiii
-html-css-js with responsive psi website
+html-css-js with responsive pepsi website
